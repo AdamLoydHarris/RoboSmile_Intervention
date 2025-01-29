@@ -16,7 +16,9 @@ Members (in alphabetical order):
 1) A notebook for generating an artificial dataset of users, and generating embeddings of their bios.
 
 
-2) A streamlit app that allows a user to sign up, have their bio embedded and matched with those most similar, and a basic conversation with the synthetic users and Ellie, the LLM mediator. 
+2) A streamlit app that allows a user to sign up, have their bio embedded and matched with those most similar, and a basic conversation with the synthetic users and Ellie, the LLM mediator.
+
+Try it out here:
 
 https://safecircles.onrender.com/
 
